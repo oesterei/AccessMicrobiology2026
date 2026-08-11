@@ -1,0 +1,1329 @@
+{
+    "a_galaxy_workflow": "true",
+    "annotation": "Galaxy workflow for cluster-guided comparative genomics of ESBL-producing Enterobacterales genome assemblies using dRep, MUMmer/NUCmer, Roary, Snippy/Snippy-core, and IQ-TREE.",
+    "comments": [
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        48.4,
+                        0
+                    ],
+                    [
+                        58.1,
+                        20.6
+                    ],
+                    [
+                        58.1,
+                        55.6
+                    ],
+                    [
+                        42.3,
+                        127
+                    ],
+                    [
+                        16.9,
+                        198.4
+                    ],
+                    [
+                        6,
+                        245.5
+                    ],
+                    [
+                        0,
+                        298.8
+                    ],
+                    [
+                        0,
+                        370.1
+                    ],
+                    [
+                        9.7,
+                        428.2
+                    ],
+                    [
+                        21.8,
+                        452.4
+                    ],
+                    [
+                        37.5,
+                        458.4
+                    ],
+                    [
+                        55.6,
+                        458.4
+                    ],
+                    [
+                        83.5,
+                        450
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 1,
+            "position": [
+                1038.3,
+                96.5
+            ],
+            "size": [
+                83.5,
+                458.4
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        0,
+                        76.3
+                    ],
+                    [
+                        16.5,
+                        68.9
+                    ],
+                    [
+                        23.9,
+                        60.7
+                    ],
+                    [
+                        26.6,
+                        51.5
+                    ],
+                    [
+                        25.7,
+                        9.2
+                    ],
+                    [
+                        37.7,
+                        0
+                    ],
+                    [
+                        45.9,
+                        0
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 0,
+            "position": [
+                839.7,
+                74.7
+            ],
+            "size": [
+                45.9,
+                76.3
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 7,
+            "position": [
+                982.8,
+                1105.2
+            ],
+            "size": [
+                0,
+                0
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        24.6,
+                        35.8
+                    ],
+                    [
+                        47,
+                        85.1
+                    ],
+                    [
+                        82.9,
+                        143.4
+                    ],
+                    [
+                        138.9,
+                        203.8
+                    ],
+                    [
+                        161.3,
+                        221.7
+                    ],
+                    [
+                        228.5,
+                        255.3
+                    ],
+                    [
+                        329.3,
+                        282.2
+                    ],
+                    [
+                        376.3,
+                        288.9
+                    ],
+                    [
+                        385.3,
+                        293.4
+                    ],
+                    [
+                        441.3,
+                        300.1
+                    ],
+                    [
+                        472.6,
+                        313.6
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 6,
+            "position": [
+                731.9,
+                623.7
+            ],
+            "size": [
+                472.6,
+                313.6
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        0,
+                        533.1
+                    ],
+                    [
+                        98.6,
+                        468.1
+                    ],
+                    [
+                        121,
+                        439
+                    ],
+                    [
+                        136.6,
+                        403.2
+                    ],
+                    [
+                        159,
+                        315.8
+                    ],
+                    [
+                        165.7,
+                        221.7
+                    ],
+                    [
+                        176.9,
+                        150.1
+                    ],
+                    [
+                        183.7,
+                        60.5
+                    ],
+                    [
+                        188.1,
+                        35.8
+                    ],
+                    [
+                        192.6,
+                        29.1
+                    ],
+                    [
+                        194.9,
+                        0
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 5,
+            "position": [
+                516.9,
+                621.4
+            ],
+            "size": [
+                194.9,
+                533.1
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        0,
+                        553.1
+                    ],
+                    [
+                        52.7,
+                        541.5
+                    ],
+                    [
+                        92.2,
+                        510.3
+                    ],
+                    [
+                        103.7,
+                        493.8
+                    ],
+                    [
+                        121.8,
+                        462.5
+                    ],
+                    [
+                        167.9,
+                        327.6
+                    ],
+                    [
+                        202.5,
+                        251.8
+                    ],
+                    [
+                        245.3,
+                        189.3
+                    ],
+                    [
+                        309.4,
+                        75.7
+                    ],
+                    [
+                        344,
+                        26.3
+                    ],
+                    [
+                        376.9,
+                        8.2
+                    ],
+                    [
+                        418.1,
+                        1.6
+                    ],
+                    [
+                        465.8,
+                        0
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 4,
+            "position": [
+                838.1,
+                44.5
+            ],
+            "size": [
+                465.8,
+                553.1
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        89.8,
+                        0
+                    ],
+                    [
+                        27.6,
+                        38.2
+                    ],
+                    [
+                        3.6,
+                        80
+                    ],
+                    [
+                        0,
+                        91.6
+                    ],
+                    [
+                        0,
+                        112.9
+                    ],
+                    [
+                        10.7,
+                        136
+                    ],
+                    [
+                        29.3,
+                        151.1
+                    ],
+                    [
+                        50.7,
+                        156.4
+                    ],
+                    [
+                        75.6,
+                        156.4
+                    ],
+                    [
+                        93.3,
+                        163.6
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 3,
+            "position": [
+                1205.5,
+                58.1
+            ],
+            "size": [
+                93.3,
+                163.6
+            ],
+            "type": "freehand"
+        },
+        {
+            "color": "none",
+            "data": {
+                "line": [
+                    [
+                        81.8,
+                        0
+                    ],
+                    [
+                        56.9,
+                        12.4
+                    ],
+                    [
+                        20.4,
+                        42.7
+                    ],
+                    [
+                        2.7,
+                        72
+                    ],
+                    [
+                        0,
+                        92.4
+                    ],
+                    [
+                        10.7,
+                        105.8
+                    ],
+                    [
+                        34.7,
+                        116.4
+                    ],
+                    [
+                        83.6,
+                        123.6
+                    ]
+                ],
+                "thickness": 5
+            },
+            "id": 2,
+            "position": [
+                1216.2,
+                67.9
+            ],
+            "size": [
+                83.6,
+                123.6
+            ],
+            "type": "freehand"
+        }
+    ],
+    "creator": [
+        {
+            "class": "Organization",
+            "isNew": true,
+            "name": ""
+        },
+        {
+            "class": "Organization",
+            "email": "mailto:deepti.gurung@harrisai.org",
+            "name": "Deepti Gurung"
+        }
+    ],
+    "format-version": "0.1",
+    "license": "MIT",
+    "name": "Cluster-guided comparative genomics",
+    "readme": "This Galaxy workflow extends a previously published Galaxy-based WGS workflow for ESBL-producing Enterobacterales bloodstream isolates by adding cluster-guided comparative genomics analyses.\n\nInput genome assembly FASTA files are first grouped using dRep-based ANI clustering. QUAST assembly-quality metrics are used to support within-cluster reference-genome selection for Snippy/Snippy-core analysis. Prokka-generated GFF files are used for cluster-specific Roary pan-genome and core-gene analyses. Representative genome pairs per cluster are analyzed with MUMmer/NUCmer to evaluate local sequence-alignment structure. Roary core-gene alignments and Snippy-core SNP alignments are analyzed separately with IQ-TREE, and resulting trees are visualized in iTOL.\n\nDownstream analyses should be performed within ANI-defined multi-genome clusters. Singleton clusters are summarized but are not used for within-cluster MUMmer, Roary, Snippy-core, or IQ-TREE analyses.",
+    "report": {
+        "markdown": "\n# Workflow Execution Report\n\n## Workflow Inputs\n```galaxy\ninvocation_inputs()\n```\n\n## Workflow Outputs\n```galaxy\ninvocation_outputs()\n```\n\n## Workflow\n```galaxy\nworkflow_display()\n```\n"
+    },
+    "steps": {
+        "0": {
+            "annotation": "Input collection containing genome assembly FASTA files for the 66 ESBL-producing Enterobacterales bloodstream isolates from ENA BioProject PRJEB72649.",
+            "content_id": null,
+            "errors": null,
+            "id": 0,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "Input collection containing genome assembly FASTA files for the 66 ESBL-producing Enterobacterales bloodstream isolates from ENA BioProject PRJEB72649.",
+                    "name": "Genome FASTA collection"
+                }
+            ],
+            "label": "Genome FASTA collection",
+            "name": "Input dataset collection",
+            "outputs": [],
+            "position": {
+                "left": 0,
+                "top": 620.4050732988995
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"format\": [\"fasta\"], \"tag\": null, \"collection_type\": \"list\", \"fields\": null, \"column_definitions\": null}",
+            "tool_version": null,
+            "type": "data_collection_input",
+            "uuid": "309e5eae-9336-4f4d-9b47-fba817fd8c98",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "1": {
+            "annotation": "Select the reference genome from each cluster with lower contig counts, higher N50 values, and genome-size/GC-content values consistent with the cluster",
+            "content_id": null,
+            "errors": null,
+            "id": 1,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "Select the reference genome from each cluster with lower contig counts, higher N50 values, and genome-size/GC-content values consistent with the cluster",
+                    "name": "Reference Genome Selection per cluster"
+                }
+            ],
+            "label": "Reference Genome Selection per cluster",
+            "name": "Input parameter",
+            "outputs": [],
+            "position": {
+                "left": 886.9402318021212,
+                "top": 30.499989516262666
+            },
+            "tool_id": null,
+            "tool_state": "{\"multiple\": false, \"validators\": [], \"parameter_type\": \"text\", \"optional\": false}",
+            "tool_version": null,
+            "type": "parameter_input",
+            "uuid": "1c669fc1-9ea7-402d-b844-4a83e4780d75",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "2": {
+            "annotation": "Representative high-ANI within-cluster pairs and one lower-ANI cross-secondary-cluster pair were selected for pairwise whole-genome alignment.",
+            "content_id": null,
+            "errors": null,
+            "id": 2,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "Representative high-ANI within-cluster pairs and one lower-ANI cross-secondary-cluster pair were selected for pairwise whole-genome alignment.",
+                    "name": "Select representative genome pairs"
+                }
+            ],
+            "label": "Select representative genome pairs",
+            "name": "Input parameter",
+            "outputs": [],
+            "position": {
+                "left": 1296.1995310666375,
+                "top": 23.792090405883396
+            },
+            "tool_id": null,
+            "tool_state": "{\"multiple\": false, \"validators\": [], \"parameter_type\": \"text\", \"optional\": false}",
+            "tool_version": null,
+            "type": "parameter_input",
+            "uuid": "384e9276-9b4c-44f1-8322-b7296d2a7f36",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "3": {
+            "annotation": "Runs MUMmer/NUCmer on representative genome pairs selected from ANI-defined clusters to evaluate local sequence collinearity and alignment structure.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummer/mummer_mummer/4.0.1+galaxy0",
+            "errors": null,
+            "id": 3,
+            "input_connections": {},
+            "inputs": [],
+            "label": "Pairwise whole-genome alignment",
+            "name": "Mummer",
+            "outputs": [
+                {
+                    "name": "output",
+                    "type": "tabular"
+                },
+                {
+                    "name": "png_output",
+                    "type": "png"
+                }
+            ],
+            "position": {
+                "left": 1301.7000930085337,
+                "top": 126.30163812631343
+            },
+            "post_job_actions": {
+                "EmailActionoutput": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "output"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummer/mummer_mummer/4.0.1+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "355f84a894bf",
+                "name": "mummer_mummer",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"anchoring\": \"\", \"chars\": false, \"direction\": \"-b\", \"force\": false, \"min\": \"20\", \"mumplot\": {\"plot\": \"yes\", \"__current_case__\": 0, \"breaklen\": \"20\", \"color\": \"\", \"coverage\": \"\", \"filter\": false, \"fat\": false, \"labels\": {\"IDs\": \"no\", \"__current_case__\": 1}, \"size\": \"small\", \"snp\": false, \"title\": \"Title\", \"range\": {\"custom\": \"no\", \"__current_case__\": 1}}, \"options\": {\"advanced\": \"defaults\", \"__current_case__\": 1}, \"position\": false, \"print_length\": false, \"query_sequence\": {\"__class__\": \"ConnectedValue\"}, \"reference_sequence\": {\"__class__\": \"ConnectedValue\"}, \"substring\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "4.0.1+galaxy0",
+            "type": "tool",
+            "uuid": "ecfa1bcc-1b28-4124-810b-6e4576b8730b",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "4": {
+            "annotation": "Runs Roary separately within ANI-defined multi-genome clusters using Prokka-generated GFF files. Outputs include pan-genome summaries, gene presence/absence tables, and core-gene alignments.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/roary/roary/3.13.0+galaxy3",
+            "errors": null,
+            "id": 4,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Roary",
+                    "name": "gff_input"
+                }
+            ],
+            "label": "Pan-genome and core-gene analysis",
+            "name": "Roary",
+            "outputs": [
+                {
+                    "name": "sumstats",
+                    "type": "tabular"
+                },
+                {
+                    "name": "core_gene_aln",
+                    "type": "fasta"
+                },
+                {
+                    "name": "gene_p_a",
+                    "type": "csv"
+                }
+            ],
+            "position": {
+                "left": 1203.6535348963432,
+                "top": 870.8536884349219
+            },
+            "post_job_actions": {
+                "EmailActionsumstats": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "sumstats"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/roary/roary/3.13.0+galaxy3",
+            "tool_shed_repository": {
+                "changeset_revision": "9b2b122d0415",
+                "name": "roary",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"advanced\": {\"maxclust\": \"50000\", \"split_para\": false, \"trans_tab\": \"11\", \"mcl\": \"1.5\"}, \"core_diff\": \"99.0\", \"gff_input\": {\"gff_input_selector\": \"individual\", \"__current_case__\": 0, \"gffs\": {\"__class__\": \"ConnectedValue\"}}, \"outputs\": null, \"percent_ident\": \"95\", \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "3.13.0+galaxy3",
+            "type": "tool",
+            "uuid": "f672f375-089e-48b2-8c75-27d5e260160c",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "5": {
+            "annotation": "Uses dRep compare to group genome assemblies by average nucleotide identity. Primary clusters and secondary subclusters were used to guide downstream comparative genomics analyses.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/drep_dereplicate/drep_dereplicate/3.7.1+galaxy0",
+            "errors": null,
+            "id": 5,
+            "input_connections": {
+                "genomes": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool dRep dereplicate",
+                    "name": "scoring"
+                }
+            ],
+            "label": "ANI-based genome clustering with dRep",
+            "name": "dRep dereplicate",
+            "outputs": [
+                {
+                    "name": "dereplicated_genomes",
+                    "type": "input"
+                },
+                {
+                    "name": "log",
+                    "type": "txt"
+                },
+                {
+                    "name": "warnings",
+                    "type": "txt"
+                },
+                {
+                    "name": "Primary_clustering_dendrogram",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Secondary_clustering_dendrograms",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Secondary_clustering_MDS",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Clustering_scatterplots",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Bdb",
+                    "type": "csv"
+                },
+                {
+                    "name": "Cdb",
+                    "type": "csv"
+                },
+                {
+                    "name": "Mdb",
+                    "type": "csv"
+                },
+                {
+                    "name": "Ndb",
+                    "type": "csv"
+                },
+                {
+                    "name": "Cluster_scoring",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Winning_genomes",
+                    "type": "pdf"
+                },
+                {
+                    "name": "Widb",
+                    "type": "csv"
+                },
+                {
+                    "name": "Chdb",
+                    "type": "tabular"
+                }
+            ],
+            "position": {
+                "left": 311.74343176107186,
+                "top": 109.42638763783529
+            },
+            "post_job_actions": {
+                "EmailActiondereplicated_genomes": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "dereplicated_genomes"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/drep_dereplicate/drep_dereplicate/3.7.1+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "8165eab19456",
+                "name": "drep_dereplicate",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"comp_clust\": {\"steps\": {\"select\": \"default\", \"__current_case__\": 0, \"MASH_sketch\": \"1000\", \"P_ani\": \"0.9\", \"multiround_primary_clustering\": false, \"primary_chunksize\": \"5000\", \"clustering\": {\"S_algorithm\": \"ANImf\", \"__current_case__\": 1, \"n_PRESET\": \"normal\", \"coverage_method\": \"larger\"}, \"S_ani\": \"0.99\", \"cov_thresh\": \"0.1\"}, \"clusterAlg\": \"average\", \"run_tertiary_clustering\": false}, \"filter\": {\"length\": \"50000\", \"completeness\": \"75\", \"contamination\": \"25\"}, \"genomes\": {\"__class__\": \"ConnectedValue\"}, \"quality\": {\"source\": \"checkm\", \"__current_case__\": 0, \"checkM_method\": \"lineage_wf\", \"set_recursion\": null, \"checkm_group_size\": \"2000\"}, \"scoring\": {\"completeness_weight\": \"1.0\", \"contamination_weight\": \"5.0\", \"strain_heterogeneity_weight\": \"1.0\", \"N50_weight\": \"0.5\", \"size_weight\": \"0.0\", \"centrality_weight\": \"1.0\", \"extra_weight_table\": {\"__class__\": \"RuntimeValue\"}}, \"select_outputs\": {\"__class__\": \"ConnectedValue\"}, \"warning\": {\"warn_dist\": \"0.25\", \"warn_sim\": \"0.98\", \"warn_aln\": \"0.25\"}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "3.7.1+galaxy0",
+            "type": "tool",
+            "uuid": "673107eb-42f2-42d8-8739-885d355a9465",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "ANI-based genome clusters",
+                    "output_name": "dereplicated_genomes",
+                    "uuid": "32e03091-b423-470f-967a-3ace65d3c5ce"
+                },
+                {
+                    "label": "warnings",
+                    "output_name": "warnings",
+                    "uuid": "19ec2abe-7478-47fe-b818-349714e4f2e5"
+                },
+                {
+                    "label": "Secondary_clustering_dendrograms",
+                    "output_name": "Secondary_clustering_dendrograms",
+                    "uuid": "5dc9053f-0867-4bdc-905a-8e1046e8279e"
+                },
+                {
+                    "label": "Cdb",
+                    "output_name": "Cdb",
+                    "uuid": "cb803e4f-4649-4ca7-895f-f884930ed5af"
+                },
+                {
+                    "label": "Ndb",
+                    "output_name": "Ndb",
+                    "uuid": "c212a490-60ed-4f52-9588-e69db4b6e0d3"
+                },
+                {
+                    "label": "Primary_clustering_dendrogram",
+                    "output_name": "Primary_clustering_dendrogram",
+                    "uuid": "5420f614-457d-4621-b341-bcd90fc4f3f7"
+                }
+            ]
+        },
+        "6": {
+            "annotation": "Generates standardized GFF annotation files from genome assemblies for Roary pan-genome and core-gene analysis.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/crs4/prokka/prokka/1.14.6+galaxy2",
+            "errors": null,
+            "id": 6,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Prokka",
+                    "name": "proteins"
+                }
+            ],
+            "label": "Prokka Generated GFF Annotation Collection",
+            "name": "Prokka",
+            "outputs": [
+                {
+                    "name": "out_gff",
+                    "type": "gff3"
+                },
+                {
+                    "name": "out_gbk",
+                    "type": "genbank"
+                },
+                {
+                    "name": "out_fna",
+                    "type": "fasta"
+                },
+                {
+                    "name": "out_faa",
+                    "type": "fasta"
+                },
+                {
+                    "name": "out_ffn",
+                    "type": "fasta"
+                },
+                {
+                    "name": "out_sqn",
+                    "type": "asn1"
+                },
+                {
+                    "name": "out_fsa",
+                    "type": "fasta"
+                },
+                {
+                    "name": "out_tbl",
+                    "type": "txt"
+                },
+                {
+                    "name": "out_tsv",
+                    "type": "tabular"
+                },
+                {
+                    "name": "out_err",
+                    "type": "txt"
+                },
+                {
+                    "name": "out_txt",
+                    "type": "txt"
+                },
+                {
+                    "name": "out_log",
+                    "type": "txt"
+                }
+            ],
+            "position": {
+                "left": 312.85012460083266,
+                "top": 1022.4746048931545
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/crs4/prokka/prokka/1.14.6+galaxy2",
+            "tool_shed_repository": {
+                "changeset_revision": "c105b66eaab1",
+                "name": "prokka",
+                "owner": "crs4",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"centre\": \"\", \"compliant\": {\"compliant_select\": \"no\", \"__current_case__\": 0, \"addgenes\": false, \"mincontig\": \"200\"}, \"evalue\": \"1e-06\", \"fast\": false, \"genus\": \"\", \"gffver\": \"3\", \"increment\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"kingdom\": {\"kingdom_select\": \"Bacteria\", \"__current_case__\": 1, \"gcode\": \"11\"}, \"locustag\": \"\", \"metagenome\": false, \"norrna\": false, \"notrna\": false, \"outputs\": [\"gff\", \"gbk\", \"fna\", \"faa\", \"ffn\", \"sqn\", \"fsa\", \"tbl\", \"tsv\", \"err\", \"txt\"], \"plasmid\": \"\", \"proteins\": {\"__class__\": \"RuntimeValue\"}, \"rfam\": false, \"species\": \"\", \"strain\": \"\", \"usegenus\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "1.14.6+galaxy2",
+            "type": "tool",
+            "uuid": "dd240d7e-5fe9-486f-b0da-ff407c97435f",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "out_gff",
+                    "output_name": "out_gff",
+                    "uuid": "a774b1f9-cef8-419c-9bfb-94ba4a35e8de"
+                }
+            ]
+        },
+        "7": {
+            "annotation": "Infers maximum-likelihood phylogenies from Roary core-gene alignments and Snippy-core alignments using IQ-TREE with ModelFinder and ultrafast bootstrap support.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/iqtree/iqtree/2.4.0+galaxy2",
+            "errors": null,
+            "id": 7,
+            "input_connections": {
+                "general_options|s": {
+                    "id": 4,
+                    "output_name": "core_gene_aln"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "general_options"
+                },
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "general_options"
+                },
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "likelihood_mapping"
+                }
+            ],
+            "label": "IQ-TREE core-gene phylogeny",
+            "name": "IQ-TREE",
+            "outputs": [
+                {
+                    "name": "bionj",
+                    "type": "nhx"
+                },
+                {
+                    "name": "treefile",
+                    "type": "nhx"
+                },
+                {
+                    "name": "mldist",
+                    "type": "mldist"
+                },
+                {
+                    "name": "splits",
+                    "type": "nex"
+                },
+                {
+                    "name": "iqtree",
+                    "type": "iqtree"
+                }
+            ],
+            "position": {
+                "left": 1724.8784160430587,
+                "top": 936.8194167866831
+            },
+            "post_job_actions": {
+                "EmailActionbionj": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "bionj"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/iqtree/iqtree/2.4.0+galaxy2",
+            "tool_shed_repository": {
+                "changeset_revision": "e727e82945af",
+                "name": "iqtree",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"bootstrap_parameters\": {\"ultrafast_bootstrap\": {\"ufboot\": \"1000\", \"ufjack\": null, \"jack_prop\": null, \"boot_trees\": false, \"wbtl\": false, \"nmax\": \"1000\", \"bcor\": \"0.99\", \"nstep\": \"100\", \"beps\": \"0.5\", \"sampling\": null, \"bnni\": false}, \"nonparametric_bootstrap\": {\"boot\": null, \"jack\": null, \"jack_prop\": null, \"bcon\": null, \"bonly\": null, \"tbe\": false}}, \"general_options\": {\"s\": {\"__class__\": \"ConnectedValue\"}, \"o\": null, \"short_alignments\": false, \"seqtype\": \"DNA\", \"t\": {\"__class__\": \"RuntimeValue\"}, \"seed\": null, \"keep_ident\": false, \"epsilon\": null, \"safe\": false}, \"likelihood_mapping\": {\"lmap\": null, \"lmclust\": {\"__class__\": \"RuntimeValue\"}, \"quartetlh\": false}, \"miscellaneous_options\": {\"fconst\": null, \"blmin\": null, \"blmax\": null}, \"modelling_parameters\": {\"automatic_model\": {\"cond_model\": {\"opt_custommodel\": \"true\", \"__current_case__\": 0, \"m\": null}, \"merge_strategy\": {\"merge\": \"none\", \"__current_case__\": 0}, \"mset\": null, \"msub\": \"nuclear\", \"mfreq\": null, \"mrate\": null, \"cmin\": \"2\", \"cmax\": \"10\", \"merit\": \"AIC\", \"mtree\": false, \"madd\": null, \"mdef\": {\"__class__\": \"RuntimeValue\"}, \"modelomatic\": false}, \"specifying_substitution\": {\"mix_opt\": false}, \"rate_heterogeneity\": {\"alpha_min\": null, \"gamma_median\": false, \"i\": null, \"opt_gamma_inv\": false, \"rate\": false, \"mlrate\": false}, \"partition_model\": {\"model_selection\": {\"model\": \"none\", \"__current_case__\": 0}}, \"site_specific_frequency\": {\"tree_freq\": {\"__class__\": \"RuntimeValue\"}, \"site_freq\": null, \"freq_max\": false}}, \"time_tree\": {\"date_source\": {\"select_source\": \"none\", \"__current_case__\": 0}, \"date_tip\": null, \"date_root\": null, \"date_ci\": null, \"clock_sd\": null, \"date_no_outgroup\": false, \"date_outlier\": null, \"date_options\": null}, \"tree_parameters\": {\"tree_search\": {\"n\": null, \"ninit\": \"100\", \"ntop\": \"20\", \"nbest\": \"5\", \"nstop\": \"100\", \"radius\": \"6\", \"perturb\": \"0.5\", \"allnni\": false, \"tree_fix\": false, \"g\": {\"__class__\": \"RuntimeValue\"}, \"fast\": false, \"polytomy\": false, \"treels\": false, \"show_lh\": false, \"terrace\": false}, \"single_branch\": {\"alrt\": \"1000\", \"abayes\": false, \"lbp\": null}, \"tree_topology\": {\"trees\": {\"__class__\": \"RuntimeValue\"}, \"test\": null, \"test_weight\": false, \"test_au\": false}, \"constructing_consensus\": {\"con_tree\": false, \"con_net\": false, \"sup_min\": \"0.0\", \"burnin\": null, \"support\": {\"__class__\": \"RuntimeValue\"}, \"suptag\": null}, \"computing_robinson_foulds\": {\"tree_dist_all\": false, \"tree_dist\": {\"__class__\": \"RuntimeValue\"}, \"tree_dist2\": {\"__class__\": \"RuntimeValue\"}}, \"generating_random\": {\"r\": null, \"rand\": null, \"branch_min\": null, \"branch_mean\": null, \"branch_max\": null}, \"ancestral_state\": {\"ancestral\": false, \"asr_min\": null}, \"symmetry_test\": {\"symtest\": false, \"symtest_remove_bad\": false, \"symtest_remove_good\": false, \"symtest_type\": null, \"symtest_pval\": null, \"symtest_keep_zero\": false}, \"concordance_factor\": {\"gcf\": {\"__class__\": \"RuntimeValue\"}, \"df_tree\": false, \"scf\": null, \"cf_verbose\": false, \"cf_quartet\": false}}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "2.4.0+galaxy2",
+            "type": "tool",
+            "uuid": "f817b421-6ca2-4145-8ce5-88604ed1f978",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "treefile_roary",
+                    "output_name": "treefile",
+                    "uuid": "9a27c9c9-36a2-4969-bac6-02c406b4834b"
+                },
+                {
+                    "label": "iqtree_roary",
+                    "output_name": "iqtree",
+                    "uuid": "a864178d-9985-4cab-998f-9d658ca1bef5"
+                }
+            ]
+        },
+        "8": {
+            "annotation": "Cluster-specific FASTA collections were prepared from dRep cluster assignments. Multi-genome clusters were used for structural comparison, pan-genome analysis, and phylogenetic inference.\n\n",
+            "content_id": null,
+            "errors": null,
+            "id": 8,
+            "input_connections": {
+                "input_0": {
+                    "id": 5,
+                    "output_name": "Cdb"
+                },
+                "input_1": {
+                    "id": 5,
+                    "output_name": "Cdb"
+                },
+                "input_2": {
+                    "id": 5,
+                    "output_name": "Cdb"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "Cluster-specific FASTA collections were prepared from dRep cluster assignments. Multi-genome clusters were used for structural comparison, pan-genome analysis, and phylogenetic inference.\n\n",
+                    "name": "Create cluster-specific genome sets"
+                }
+            ],
+            "label": "Create cluster-specific genome sets",
+            "name": "Pick Value",
+            "outputs": [],
+            "position": {
+                "left": 705.5729217529297,
+                "top": 516.1979370117188
+            },
+            "post_job_actions": {
+                "RenameDatasetActionoutput": {
+                    "action_arguments": {
+                        "newname": "Cluster 1 "
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "output"
+                }
+            },
+            "tool_id": null,
+            "tool_state": "{\"mode\": \"first_non_null\", \"num_inputs\": 3}",
+            "tool_version": null,
+            "type": "pick_value",
+            "uuid": "199583f5-7591-4a4c-bd4b-860f475802f6",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "Cluster-specific genome sets",
+                    "output_name": "output",
+                    "uuid": "732849ce-eb7b-4ddc-894f-997f62f80535"
+                }
+            ]
+        },
+        "9": {
+            "annotation": "Assesses assembly quality for genome FASTA files using contig count, N50, total assembly length, GC content, and largest-contig metrics. These metrics were used to evaluate assembly quality and support within-cluster reference-genome selection for Snippy/Snippy-core analysis.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/quast/quast/5.3.0+galaxy1",
+            "errors": null,
+            "id": 9,
+            "input_connections": {
+                "mode|in|inputs": {
+                    "id": 8,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": "QUAST assembly QC",
+            "name": "Quast",
+            "outputs": [
+                {
+                    "name": "report_tabular",
+                    "type": "tabular"
+                },
+                {
+                    "name": "report_html",
+                    "type": "html"
+                },
+                {
+                    "name": "report_pdf",
+                    "type": "pdf"
+                }
+            ],
+            "position": {
+                "left": 639.3170998210752,
+                "top": 33.062924565472784
+            },
+            "post_job_actions": {
+                "EmailActionreport_html": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "report_html"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/quast/quast/5.3.0+galaxy1",
+            "tool_shed_repository": {
+                "changeset_revision": "1b1cf0c96501",
+                "name": "quast",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"advanced\": {\"contig_thresholds\": \"0,1000,5000,10000,25000,50000\", \"strict_NA\": false, \"extensive_mis_size\": \"1000\", \"scaffold_gap_max_size\": \"10000\", \"unaligned_part_size\": \"500\", \"skip_unaligned_mis_contigs\": true, \"fragmented_max_indent\": null, \"report_all_metrics\": false, \"x_for_Nx\": \"90\"}, \"alignments\": {\"use_all_alignments\": false, \"min_alignment\": \"65\", \"ambiguity_usage\": \"one\", \"ambiguity_score\": \"0.99\", \"fragmented\": false, \"upper_bound_assembly\": false, \"upper_bound_min_con\": null, \"local_mis_size\": \"200\"}, \"assembly\": {\"type\": \"genome\", \"__current_case__\": 0, \"ref\": {\"use_ref\": \"false\", \"__current_case__\": 1, \"est_ref_size\": null}, \"orga_type\": \"\", \"min_identity\": \"95.0\"}, \"genes\": {\"gene_finding\": {\"tool\": \"none\", \"__current_case__\": 0}, \"rna_finding\": false, \"conserved_genes_finding\": false}, \"large\": false, \"min_contig\": \"500\", \"mode\": {\"mode\": \"co\", \"__current_case__\": 1, \"in\": {\"custom\": \"false\", \"__current_case__\": 1, \"inputs\": {\"__class__\": \"ConnectedValue\"}}, \"reads\": {\"reads_option\": \"disabled\", \"__current_case__\": 0}}, \"output_files\": [\"html\", \"pdf\", \"tabular\"], \"split_scaffolds\": false, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "5.3.0+galaxy1",
+            "type": "tool",
+            "uuid": "027c1e23-d525-44a4-b549-18e620b44a93",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "report_pdf",
+                    "output_name": "report_pdf",
+                    "uuid": "64286ef3-9071-4e96-bfbb-97f2da8b339e"
+                },
+                {
+                    "label": "report_tabular",
+                    "output_name": "report_tabular",
+                    "uuid": "4460376f-6262-455f-8c6b-6fe5a818a271"
+                },
+                {
+                    "label": "report_html",
+                    "output_name": "report_html",
+                    "uuid": "1b283961-8e76-443c-b1d2-d021b6bc73d0"
+                }
+            ]
+        },
+        "10": {
+            "annotation": "Runs Snippy separately within each ANI-defined multi-genome cluster using one selected within-cluster reference genome.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/snippy/snippy/4.6.0+galaxy0",
+            "errors": null,
+            "id": 10,
+            "input_connections": {
+                "fastq_input|fastq_input1": {
+                    "id": 8,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool snippy",
+                    "name": "fastq_input"
+                },
+                {
+                    "description": "runtime parameter for tool snippy",
+                    "name": "fastq_input"
+                }
+            ],
+            "label": "Cluster-specific SNP calling",
+            "name": "snippy",
+            "outputs": [
+                {
+                    "name": "snpvcf",
+                    "type": "vcf"
+                },
+                {
+                    "name": "snptab",
+                    "type": "tabular"
+                },
+                {
+                    "name": "snplog",
+                    "type": "txt"
+                },
+                {
+                    "name": "outdir",
+                    "type": "zip"
+                }
+            ],
+            "position": {
+                "left": 1119.0344902614324,
+                "top": 496.7111904542181
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snippy/snippy/4.6.0+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "08d22d220254",
+                "name": "snippy",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"adv\": {\"mapqual\": \"60\", \"mincov\": \"10\", \"minfrac\": \"0.9\", \"minqual\": \"100.0\", \"rgid\": \"\", \"bwaopt\": \"\", \"rename_cons\": false}, \"fastq_input\": {\"fastq_input_selector\": \"paired\", \"__current_case__\": 0, \"fastq_input1\": {\"__class__\": \"ConnectedValue\"}, \"fastq_input2\": {\"__class__\": \"RuntimeValue\"}}, \"outputs\": [\"outvcf\", \"outtab\", \"outzip\", \"outlog\"], \"reference_source\": {\"reference_source_selector\": \"cached\", \"__current_case__\": 0, \"ref_file\": \"Araly1\"}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "4.6.0+galaxy0",
+            "type": "tool",
+            "uuid": "0c1147bb-28b3-4470-894e-26b996fd7438",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "11": {
+            "annotation": "Combines cluster-specific Snippy outputs to generate core SNP alignments for SNP-based phylogenetic analysis.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/snippy/snippy_core/4.6.0+galaxy0",
+            "errors": null,
+            "id": 11,
+            "input_connections": {
+                "indirs": {
+                    "id": 10,
+                    "output_name": "outdir"
+                }
+            },
+            "inputs": [],
+            "label": "Core SNP alignment",
+            "name": "snippy-core",
+            "outputs": [
+                {
+                    "name": "alignment_fasta",
+                    "type": "fasta"
+                }
+            ],
+            "position": {
+                "left": 1401.8040011333317,
+                "top": 362.917227772579
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snippy/snippy_core/4.6.0+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "08d22d220254",
+                "name": "snippy",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"indirs\": {\"__class__\": \"ConnectedValue\"}, \"outputs\": \"outaln\", \"reference_source\": {\"reference_source_selector\": \"cached\", \"__current_case__\": 0, \"ref_file\": \"Araly1\"}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "4.6.0+galaxy0",
+            "type": "tool",
+            "uuid": "46840324-41b0-45b5-a9e3-cff9c4f5d73b",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "alignment_fasta",
+                    "output_name": "alignment_fasta",
+                    "uuid": "5275b3b1-d201-436c-976d-2ab8bdf33649"
+                }
+            ]
+        },
+        "12": {
+            "annotation": "Infers maximum-likelihood phylogenies from Roary core-gene alignments and Snippy-core alignments using IQ-TREE with ModelFinder and ultrafast bootstrap support.",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/iqtree/iqtree/2.4.0+galaxy2",
+            "errors": null,
+            "id": 12,
+            "input_connections": {
+                "general_options|s": {
+                    "id": 11,
+                    "output_name": "alignment_fasta"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "general_options"
+                },
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "general_options"
+                },
+                {
+                    "description": "runtime parameter for tool IQ-TREE",
+                    "name": "likelihood_mapping"
+                }
+            ],
+            "label": "IQ-TREE SNP phylogeny",
+            "name": "IQ-TREE",
+            "outputs": [
+                {
+                    "name": "bionj",
+                    "type": "nhx"
+                },
+                {
+                    "name": "treefile",
+                    "type": "nhx"
+                },
+                {
+                    "name": "mldist",
+                    "type": "mldist"
+                },
+                {
+                    "name": "splits",
+                    "type": "nex"
+                },
+                {
+                    "name": "iqtree",
+                    "type": "iqtree"
+                }
+            ],
+            "position": {
+                "left": 1721.1632983455606,
+                "top": 0
+            },
+            "post_job_actions": {
+                "EmailActionbionj": {
+                    "action_arguments": {
+                        "host": "galaxy-main.usegalaxy.org"
+                    },
+                    "action_type": "EmailAction",
+                    "output_name": "bionj"
+                },
+                "HideDatasetActionbionj": {
+                    "action_arguments": {},
+                    "action_type": "HideDatasetAction",
+                    "output_name": "bionj"
+                },
+                "HideDatasetActionmldist": {
+                    "action_arguments": {},
+                    "action_type": "HideDatasetAction",
+                    "output_name": "mldist"
+                },
+                "HideDatasetActionsplits": {
+                    "action_arguments": {},
+                    "action_type": "HideDatasetAction",
+                    "output_name": "splits"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/iqtree/iqtree/2.4.0+galaxy2",
+            "tool_shed_repository": {
+                "changeset_revision": "e727e82945af",
+                "name": "iqtree",
+                "owner": "iuc",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"bootstrap_parameters\": {\"ultrafast_bootstrap\": {\"ufboot\": \"1000\", \"ufjack\": null, \"jack_prop\": null, \"boot_trees\": false, \"wbtl\": false, \"nmax\": \"1000\", \"bcor\": \"0.99\", \"nstep\": \"100\", \"beps\": \"0.5\", \"sampling\": null, \"bnni\": false}, \"nonparametric_bootstrap\": {\"boot\": null, \"jack\": null, \"jack_prop\": null, \"bcon\": null, \"bonly\": null, \"tbe\": false}}, \"general_options\": {\"s\": {\"__class__\": \"ConnectedValue\"}, \"o\": null, \"short_alignments\": false, \"seqtype\": \"DNA\", \"t\": {\"__class__\": \"RuntimeValue\"}, \"seed\": null, \"keep_ident\": false, \"epsilon\": null, \"safe\": false}, \"likelihood_mapping\": {\"lmap\": null, \"lmclust\": {\"__class__\": \"RuntimeValue\"}, \"quartetlh\": false}, \"miscellaneous_options\": {\"fconst\": null, \"blmin\": null, \"blmax\": null}, \"modelling_parameters\": {\"automatic_model\": {\"cond_model\": {\"opt_custommodel\": \"true\", \"__current_case__\": 0, \"m\": null}, \"merge_strategy\": {\"merge\": \"none\", \"__current_case__\": 0}, \"mset\": null, \"msub\": \"nuclear\", \"mfreq\": null, \"mrate\": null, \"cmin\": \"2\", \"cmax\": \"10\", \"merit\": \"AIC\", \"mtree\": false, \"madd\": null, \"mdef\": {\"__class__\": \"RuntimeValue\"}, \"modelomatic\": false}, \"specifying_substitution\": {\"mix_opt\": false}, \"rate_heterogeneity\": {\"alpha_min\": null, \"gamma_median\": false, \"i\": null, \"opt_gamma_inv\": false, \"rate\": false, \"mlrate\": false}, \"partition_model\": {\"model_selection\": {\"model\": \"none\", \"__current_case__\": 0}}, \"site_specific_frequency\": {\"tree_freq\": {\"__class__\": \"RuntimeValue\"}, \"site_freq\": null, \"freq_max\": false}}, \"time_tree\": {\"date_source\": {\"select_source\": \"none\", \"__current_case__\": 0}, \"date_tip\": null, \"date_root\": null, \"date_ci\": null, \"clock_sd\": null, \"date_no_outgroup\": false, \"date_outlier\": null, \"date_options\": null}, \"tree_parameters\": {\"tree_search\": {\"n\": null, \"ninit\": \"100\", \"ntop\": \"20\", \"nbest\": \"5\", \"nstop\": \"100\", \"radius\": \"6\", \"perturb\": \"0.5\", \"allnni\": false, \"tree_fix\": false, \"g\": {\"__class__\": \"ConnectedValue\"}, \"fast\": false, \"polytomy\": false, \"treels\": false, \"show_lh\": false, \"terrace\": false}, \"single_branch\": {\"alrt\": \"1000\", \"abayes\": false, \"lbp\": null}, \"tree_topology\": {\"trees\": {\"__class__\": \"ConnectedValue\"}, \"test\": null, \"test_weight\": false, \"test_au\": false}, \"constructing_consensus\": {\"con_tree\": false, \"con_net\": false, \"sup_min\": \"0.0\", \"burnin\": null, \"support\": {\"__class__\": \"RuntimeValue\"}, \"suptag\": null}, \"computing_robinson_foulds\": {\"tree_dist_all\": false, \"tree_dist\": {\"__class__\": \"RuntimeValue\"}, \"tree_dist2\": {\"__class__\": \"RuntimeValue\"}}, \"generating_random\": {\"r\": null, \"rand\": null, \"branch_min\": null, \"branch_mean\": null, \"branch_max\": null}, \"ancestral_state\": {\"ancestral\": false, \"asr_min\": null}, \"symmetry_test\": {\"symtest\": false, \"symtest_remove_bad\": false, \"symtest_remove_good\": false, \"symtest_type\": null, \"symtest_pval\": null, \"symtest_keep_zero\": false}, \"concordance_factor\": {\"gcf\": {\"__class__\": \"RuntimeValue\"}, \"df_tree\": false, \"scf\": null, \"cf_verbose\": false, \"cf_quartet\": false}}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_uuid": null,
+            "tool_version": "2.4.0+galaxy2",
+            "type": "tool",
+            "uuid": "de1a3aa8-2430-400d-b380-9e279a9df0e8",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": "iqtree_snippy",
+                    "output_name": "iqtree",
+                    "uuid": "a008ade4-134a-458b-9e5c-e6dc9c8eb03a"
+                },
+                {
+                    "label": "treefile_snippy",
+                    "output_name": "treefile",
+                    "uuid": "5a6de99f-290c-45be-92e0-811d2a45b4dd"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "ESBL",
+        "antimicrobialresistance",
+        "antimicrobial-resistance-genes",
+        "antibiotic-resistance",
+        "dRep",
+        "Roary",
+        "Snippy",
+        "IQ-TREE",
+        "MUMmer",
+        "bacterial-genomics"
+    ],
+    "uuid": "38ef2470-ae82-47d2-ad40-a9994707829c",
+    "version": 14
+}
